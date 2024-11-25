@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(221, 221, 221);
+}#menu-fixo{
+    width: 100%;
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+}a{
+    color: white;
+    text-decoration: none;
+}a:active{
+    color: white;
+    text-decoration: none;
+}a:link{
+    color: white;
+    text-decoration: none;
+}
+.nav-main{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 4vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}.logo-img{
+    display: flex;
+}.logo-nav{
+    width: 4vw;
+    height: 7vh;
+    position: relative;
+}.Tecnewsh2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}.redes{
+    margin: 0;
+    padding: 0;
+}.redes-img{
+    width: 2vw;
+    height: 4vh;
+    cursor: pointer;
+}.logar-div{
+    display: flex;
+    align-items: center;
+}.logar-img{
+    width: 1.5vw;
+    height: 2.5vh;
+}.logar-nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-main-2{
+    width: 100%;
+    height: 8vh;
+    background-color: #47C5FF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer{
+    margin-top: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}.footer-img{
+    width: 6vw;
+    height: 12vh;
+}.footer-h2{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}.footer-redes{
+    width: 2vw;
+    height: 3.5vh;
+    cursor: pointer;
+}.footer-logo{
+    display: flex;
+    align-items: center;
+}
+.ads-cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    padding: 10px;
+}
+.card{
+    margin: 50px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}.card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    cursor: pointer;
+}.card-body{
+    background-color: #0b94d3;
+}.card-text{
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+.img-text{
+   display: flex;
+    margin: 0px;
+    padding: 0px;
+}.img-size{
+    width: 50%;
+    margin-bottom: 0;
+}.p-margin{
+    margin: 0;
+    padding: 0;   
+}
+.section-main{
+    margin-right: 180px;
+    margin-left: 180px;
+    background-color: white;
+    padding: 20px;
+}
+h1{
+    display: flex;
+    font-size: 2.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+   align-items: center;
+    text-align: center;
+}p{
+    font-size: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
